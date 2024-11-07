@@ -6,7 +6,7 @@ Soy Nicolas, un apasionado por la tecnología y la programación. Estoy en el pr
 
 ### Habilidades
 - **Lenguajes**: Python
-- - **Herramientas**: VS Code
+- **Herramientas**: VS Code
 
  ### Contacto
  - **Correo**: lucianogonzalescueto@gmail.com
