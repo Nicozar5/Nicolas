@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Nicolas :D
+# 👋 Hi, I’m Nicolas :D
 - Dando mis primeros pasos en el mundo de la programación con Python, transformando ideas en proyectos divertidos y desafiantes.
 
 ### ¿Quién soy? :0
