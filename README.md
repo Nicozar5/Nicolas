@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Nicozar5
+# 👋 Hi, I’m @Nicolas :D
 Comenzando mi camino en la programación con Python y creando proyectos divertidos.
 
 ### ¿Quién soy? :0
