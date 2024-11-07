@@ -10,3 +10,11 @@ Soy Nicolas, un apasionado por la tecnología y la programación. Estoy en el pr
 
  ### Contacto
  - **Correo**: lucianogonzalescueto@gmail.com
+
+### Fun Facts
+- Me encanta ** Leer y aprender de todo
+- En mis ratos libres disfruto aprender sobre ** La tegnologia
+
+---
+
+¡Gracias por visitar mi perfil! Si tienes alguna sugerencia, no dudes en contactarme o colaborar conmigo en algún proyecto :V
